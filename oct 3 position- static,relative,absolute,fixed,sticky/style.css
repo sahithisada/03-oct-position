@@ -1,0 +1,76 @@
+img{
+    width: 200px;
+    height: 300px;
+}
+#poster{
+    width: 500px;
+    height: 200px;
+    position: fixed;
+    bottom: 50px;
+    left: 800px;
+}
+#damon{
+    position: relative;
+    left: 50px;
+    z-index: 19;
+}
+#elena{
+    position: relative;
+    right:450px;
+    z-index: 20;
+}
+#bonnie{
+    width: 190px;
+    position: relative;
+    left: 700px;
+}
+#caroline{
+    position: relative;
+    left: 350px;
+    z-index: 18;
+}
+#stefen{
+    position: relative;
+    bottom: 304px;
+    right: 270px;
+    z-index: 19;
+} 
+ #enzo{
+    position: relative;
+    right: 945px;
+    z-index: 18; 
+}
+#rebbekah{
+    position: relative;
+    bottom: 304px;
+    right: 300px;
+    z-index: 17;
+} 
+#elaija{
+    position: relative;
+    left: 10px;
+    z-index: 17;
+}
+ #jenna{
+    width: 300px;
+    position: relative;
+    bottom: 304px;
+    left: 120px;
+    z-index: 18; 
+}
+#p1{
+    margin-top: -285px; 
+}
+body{
+    background-color: rgb(93, 92, 91);
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    position: sticky;
+    top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(130, 6, 6);
+    color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+}
